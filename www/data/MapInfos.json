@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"阶段1","order":1,"parentId":0,"scrollX":642,"scrollY":377.4},
+{"id":2,"expanded":false,"name":"前期设定","order":9,"parentId":0,"scrollX":679.8,"scrollY":498.59999999999997},
+{"id":3,"expanded":true,"name":"阶段2","order":2,"parentId":0,"scrollX":713.3333333333334,"scrollY":484.6666666666667},
+{"id":4,"expanded":false,"name":"阶段3","order":3,"parentId":0,"scrollX":642,"scrollY":377.4},
+{"id":5,"expanded":false,"name":"阶段4","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"阶段5","order":5,"parentId":0,"scrollX":713.3333333333334,"scrollY":482},
+{"id":7,"expanded":false,"name":"阶段6","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"阶段7","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"阶段8","order":8,"parentId":0,"scrollX":713.3333333333334,"scrollY":461.3333333333333},
+{"id":10,"expanded":false,"name":"MAP010","order":10,"parentId":0,"scrollX":713.3333333333334,"scrollY":461.3333333333333},
+{"id":11,"expanded":false,"name":"爱丽丝的房间","order":11,"parentId":0,"scrollX":713.3333333333334,"scrollY":461.3333333333333}
+]

@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"ステージ1","order":1,"parentId":0,"scrollX":713.3333333333334,"scrollY":482},
+{"id":2,"expanded":false,"name":"初期設定","order":9,"parentId":0,"scrollX":713.3333333333334,"scrollY":482},
+{"id":3,"expanded":true,"name":"ステージ2","order":2,"parentId":0,"scrollX":713.3333333333334,"scrollY":484.6666666666667},
+{"id":4,"expanded":false,"name":"ステージ3","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"ステージ4","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"ステージ5","order":5,"parentId":0,"scrollX":713.3333333333334,"scrollY":482},
+{"id":7,"expanded":false,"name":"ステージ6","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"ステージ7","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"ステージ8","order":8,"parentId":0,"scrollX":713.3333333333334,"scrollY":482}
+]
